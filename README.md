@@ -1,6 +1,10 @@
 # C to ASM_Compiler
 Our own version of a C to assembly compiler
 
+# Dev team
+- [**Izhan Sastre**]( https://github.com/izhans)
+- [**Iván de Diego**](https://github.com/HormiDev)
+- [**Ismael Hernández**](https://github.com/ismaelucky342)
 # **Project Structure:**
 
 #### 1. Lexical Analysis (Lexer)
